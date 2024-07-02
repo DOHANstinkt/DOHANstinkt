@@ -7,7 +7,7 @@
       Basics: https://vikramios.medium.com/what-is-plist-file-in-ios-73384c01dd1d
 -
       Overfiev: https://developer.apple.com/documentation/bundleresources/information_property_list
--  
+   
 - 💞️ I’m looking to collaborate on ...
   
 - 📫 How to reach me ON Instagram @dohanstixt
